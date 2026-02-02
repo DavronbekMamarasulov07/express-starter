@@ -19,6 +19,8 @@ Quyidagi kutubxonalar o‘rnatilgan:
 - **express** — HTTP server va routing
 - **dotenv** — `.env` fayldan environment variables o‘qish
 - **nodemon** — development paytida auto-restart (dev mode)
+- **bcrypt** — foydalanuvchi parolini hash qilish va solishtirish uchun
+- **jsonwebtoken (jst)** — foydalanuvchini autentifikatsiya qilish, token yaratish va tekshirish uchun
 - **mongoose** — MongoDB bilan ishlash uchun kutubxona (ODM). Ma’lumotlarni yaratish, o‘qish, yangilash va o‘chirishni soddalashtiradi.
 
 ---
